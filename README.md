@@ -1,5 +1,6 @@
 
 # Project Title
+My Ai
 
 
 
@@ -12,6 +13,7 @@
 
 
 ## How is it used?
+You can do simple addition calculations.
 
 
 
