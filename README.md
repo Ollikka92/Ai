@@ -4,29 +4,11 @@
 
 
 
-## Summary
-
-
-
-## Background
-
-
-
 ## How is it used?
 You can do simple addition calculations.
 
 
 
-
-## Challenges
-
-
-## What next?
-
-
-## Acknowledgments
-
-* etc
 # Ai
 //Html file
  17 lines (15 sloc) 453 Bytes
