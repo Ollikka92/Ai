@@ -1,15 +1,4 @@
 
-
-
-
-
-
-## How is it used?
-You can do simple addition calculations.
-
-
-
-# Ai
 //Html file
 <html>
 <head>
