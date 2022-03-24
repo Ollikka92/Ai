@@ -5,9 +5,9 @@
 
 
 
-## Summary
+## Summary Calculator
+Simple calculator
 
-Calculator
 
 ## Background
 
