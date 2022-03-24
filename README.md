@@ -11,7 +11,6 @@ You can do simple addition calculations.
 
 # Ai
 //Html file
- 17 lines (15 sloc) 453 Bytes
 <html>
 <head>
     <title>Kokonaisluku</title>
